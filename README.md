@@ -1,6 +1,6 @@
 # DEPI RAM Web Server
 
-![DEPI RAM Login Page](https://via.placeholder.com/800x400.png?text=DEPI+RAM+Login+Page)
+
 
 A lightweight web server designed to manage domain authentication with a simple login interface for DEPI RAM. This project serves as a foundation for handling HTTP requests, user authentication, and serving static content.
 
